@@ -35,19 +35,6 @@ The **Intelligent Food Safety Inspection & Risk Management Platform** is a web-b
 * Monitor compliance through dashboards
 * Query inspection data using a GenAI assistant
 
-# Key Features:
-
-Feature                     	Description
-Authentication	   |    Secure login with role-based access
-Establishments	   |    Manage food establishment information
-Inspections	       |    Create, schedule and review inspections
-Violations         |  	Record severity, evidence and status
-Risk Engine	       |    Predict LOW/MEDIUM/HIGH/CRITICAL risk
-Corrective Actions |    Track remediation and evidence
-Re-inspection	     |    Verify whether violations are resolved
-Dashboard          |	  KPIs, trends and risk distribution
-GenAI Assistant	   |    Ask questions about actual inspection data   
-
 ### Core Workflow
 
 ```text
@@ -538,8 +525,7 @@ Establishment
 | ------------- | -------------------- |
 | Team Member 1 | Full Stack / Backend |
 | Team Member 2 | Frontend / UI        |
-| Team Member 3 | AI/ML                |
-| Team Member 4 | GenAI / Database     |
+| Team Member 3 | AI/ML / database     |
 
 ---
 
